@@ -1,0 +1,28 @@
+Missing ".ends" statement in file "..\sym\EXTRA\DIODES.COM\ZENER\LIB\zener.lib"
+Questionable use of curly braces in "src={bzx84c6v8t}"
+    Error: undefined symbol in: "[bzx84c6v8t]"
+Circuit: * D:\Altium\Projects\TrailerController_SuspensionPMS\modeling\power_protection.asc
+
+Instance "m:u6:1": Width narrower than recommended for a level 3 MOSFET.
+Instance "m:u2:2": Length shorter than recommended for a level 3 MOSFET.
+Instance "m:u2:1": Length shorter than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Mar 02 17:24:12 2020
+Total elapsed time: 1.008 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 29801
+traniter = 29756
+tranpoints = 7686
+accept = 6008
+rejected = 1678
+matrix size = 42
+fillins = 22
+solver = Normal
+Matrix Compiler1: 3.62 KB object code size  4.5/1.2/[0.4]
+Matrix Compiler2: off  [0.8]/1.1/1.5
+
+
