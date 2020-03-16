@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+5V_USB Pin=F2-2
+Added Component: Designator=L2(INDC4516AM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD17(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD18(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_USB Pin=VD17-1
+Added Pin To Net: NetName=GND Pin=VD18-2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=L2-2
+Added Pin To Net: NetName=NetF2_2 Pin=VD18-1
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=VD17-2
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=USB Member=Component L2 
+Added Member To Class: ClassName=USB Member=Component VD17 
+Added Member To Class: ClassName=USB Member=Component VD18 
+Added Room: Name=CAN
+Added Room: Name=USB

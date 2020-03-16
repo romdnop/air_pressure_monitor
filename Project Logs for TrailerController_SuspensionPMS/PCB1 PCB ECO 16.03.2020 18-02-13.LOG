@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=XS1-1
+Removed Pin From Net: NetName=GND Pin=XS1-2
+Removed Pin From Net: NetName=NetR57_2 Pin=XS1-3
+Removed Pin From Net: NetName=NetR62_2 Pin=XS1-5
+Removed Member From Class: ClassName=RS485 Member=XS1
+Added Pin To Net: NetName=NetR57_2 Pin=U10-1
+Added Pin To Net: NetName=NetR62_2 Pin=U10-4
+Added Room: Name=RS485
+Added Room: Name=SRS

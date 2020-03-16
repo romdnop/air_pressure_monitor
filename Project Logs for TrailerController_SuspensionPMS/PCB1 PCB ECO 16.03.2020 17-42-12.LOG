@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=NetC7_1 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NetC7_1 Pin=Q1-2
+Removed Member From Class: ClassName=MCU Member=C6
+Removed Member From Class: ClassName=MCU Member=C7
+Change Component Footprint: Designator=Q1 Old Footprint=5032-2Pin_CRYSTAL New Footprint=CSTCC-CRYSTAL
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q?
+Change component parameters: Designator = "Q?"; Footprint = "CSTCC-CRYSTAL"; UniqueID = "\BFXGWQVX\SJFIYJJF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Model"; Value = "CSTCC8M00G53A-R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=NetC7_1 Pin=Q?-3
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetQ?_3
+Added Room: Name=RS485
+Added Room: Name=SRS

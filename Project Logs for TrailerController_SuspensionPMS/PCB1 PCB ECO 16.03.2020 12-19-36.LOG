@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC22_2 Pin=U7-8
+Removed Pin From Net: NetName=NetC22_1 Pin=U7-9
+Removed Pin From Net: NetName=NetR55_2 Pin=U7-10
+Removed Pin From Net: NetName=NetR54_2 Pin=U10-5
+Removed Pin From Net: NetName=NetR45_2 Pin=U10-6
+Removed Pin From Net: NetName=NetR49_2 Pin=U10-7
+Removed Member From Class: ClassName=SRS Member=U10
+Added Pin To Net: NetName=NetR49_2 Pin=U7-8
+Added Pin To Net: NetName=NetR45_2 Pin=U7-9
+Added Pin To Net: NetName=NetR54_2 Pin=U7-10
+Added Pin To Net: NetName=NetR55_2 Pin=U7-12
+Added Pin To Net: NetName=NetC22_1 Pin=U7-13
+Added Pin To Net: NetName=NetC22_2 Pin=U7-14

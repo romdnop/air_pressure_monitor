@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=CAN|SchDesignator=CAN|FileName=CAN.SchDoc|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=PWR.SchDoc|SymbolType=Normal|RawFileName=PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=RS232|SchDesignator=RS232|FileName=RS232.SchDoc|SymbolType=Normal|RawFileName=RS232.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=RS485|SchDesignator=RS485|FileName=RS-485.SchDoc|SymbolType=Normal|RawFileName=RS-485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=SRS|SchDesignator=SRS|FileName=SRS.SchDoc|SymbolType=Normal|RawFileName=SRS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB.SchDoc|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

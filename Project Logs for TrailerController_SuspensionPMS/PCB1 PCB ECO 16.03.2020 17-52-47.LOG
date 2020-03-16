@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR61_1 Pin=XP9-3
+Change Component Footprint: Designator=XP9 Old Footprint=HEAD-1/3/2.54 New Footprint=DIP-SW/2.54/1
+Change Component Comment : Designator=XP9 Old Comment=CON_3 New Comment=SW_DIP/2.54
+Change Component Designator: OldDesignator=XP9 NewDesignator=SW?
+Added Pin To Net: NetName=NetR61_1 Pin=SW?-1

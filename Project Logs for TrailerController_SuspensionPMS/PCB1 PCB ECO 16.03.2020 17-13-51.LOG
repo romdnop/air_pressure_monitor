@@ -1,0 +1,14 @@
+Added Component: Designator=VD17(DO214-AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD18(DO214-AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR61_1 Pin=VD17-1
+Added Pin To Net: NetName=GND Pin=VD17-2
+Added Pin To Net: NetName=NetR56_1 Pin=VD18-1
+Added Pin To Net: NetName=GND Pin=VD18-2
+Added Member To Class: ClassName=RS485 Member=Component VD17 
+Added Member To Class: ClassName=RS485 Member=Component VD18 
+Added Room: Name=RS485
+Added Room: Name=SRS

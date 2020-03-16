@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=RS232-RX Pin=XP10-2
+Removed Pin From Net: NetName=RS232-TX Pin=XP10-3
+Added Component: Designator=R69(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R70(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD19(DO214-AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD20(DO214-AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS232-RX Pin=R69-1
+Added Pin To Net: NetName=RS232-TX Pin=R70-1
+Added Pin To Net: NetName=RS232-RX Pin=VD19-1
+Added Pin To Net: NetName=GND Pin=VD19-2
+Added Pin To Net: NetName=RS232-TX Pin=VD20-1
+Added Pin To Net: NetName=GND Pin=VD20-2
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetR69_2 Pin=XP10-2
+Added Net: Name=NetR69_2
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=XP10-3
+Added Net: Name=NetR70_2
+Added Member To Class: ClassName=RS232 Member=Component R69 
+Added Member To Class: ClassName=RS232 Member=Component R70 
+Added Member To Class: ClassName=RS232 Member=Component VD19 
+Added Member To Class: ClassName=RS232 Member=Component VD20 
