@@ -1,2 +1,4 @@
 *.zip/
 History/
+*.log
+*.SchDocPreview
