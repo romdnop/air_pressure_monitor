@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [TrailerController_SuspensionPMS.PrjPcb]
+   Generated File[Bill of Materials-TrailerController_SuspensionPMS.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:09:47 On 28.05.2020
